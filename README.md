@@ -31,7 +31,10 @@ This project is a full-stack ecommerce website developed with the goal of provid
 
 ## Contributors
 
-- [Your Name](link-to-profile) - Role
+- ## Contributors
+
+- [Bijoy DevPro](https://www.facebook.com/profile.php?id=61558962331026) - Web Developer
+
 
 ## License
 
