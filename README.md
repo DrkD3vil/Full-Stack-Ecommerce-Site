@@ -27,7 +27,7 @@ This project is a full-stack ecommerce website developed with the goal of provid
 
 ## Screenshots
 
-![Screenshot](https://cdn.buymeacoffee.com/uploads/project_updates/2023/12/1f5dfbf41b72756d278644fbd71c812d.jpg)
+![Screenshot](https://cdn.buymeacoffee.com/uploads/project_updates/2024/04/6f528931fa026b097588fa8a88b20bc1.jpg)
 
 ## Contributors
 
