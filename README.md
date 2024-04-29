@@ -25,6 +25,11 @@ This project is a full-stack ecommerce website developed with the goal of provid
 3. Install dependencies using `npm install`.
 4. Start the development server using `npm start`.
 
+## Dive into Learning...
+
+- [Watch on YouTube](https://youtu.be/oQo9WTyiLoQ)
+
+
 ## Screenshots
 
 ![Screenshot](https://cdn.buymeacoffee.com/uploads/project_updates/2024/04/6f528931fa026b097588fa8a88b20bc1.jpg)
